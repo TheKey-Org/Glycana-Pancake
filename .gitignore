@@ -1,7 +1,11 @@
 Binaries
+Build
 DerivedDataCache
 Intermediate
 Saved
+Plugins
+Plugins.zip
+.idea
 .vscode
 .vs
 *.VC.db
@@ -12,3 +16,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.lnk
+*.prof
